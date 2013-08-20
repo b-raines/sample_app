@@ -10,4 +10,7 @@ class StaticPagesController < ApplicationController
 
   def view
   end
+
+  def contact
+  end
 end
